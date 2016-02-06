@@ -2,4 +2,9 @@ I am home
 who's your daddy
 new branch test
 new branch test second
+<<<<<<< HEAD
 all things is Okay
+=======
+what's the fox say?
+>>>>>>> feature1
+Yeah yeah yeah yeah yeah!
