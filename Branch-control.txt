@@ -1,0 +1,1 @@
+Test the operation of control merge
