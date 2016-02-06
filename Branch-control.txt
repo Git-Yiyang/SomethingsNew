@@ -1,2 +1,2 @@
 Test the operation of control merge
-BUG
+Creating a new branch is quick and simple.
