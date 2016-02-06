@@ -1,1 +1,2 @@
 Test the operation of control merge
+Test the operation of BUG branch
